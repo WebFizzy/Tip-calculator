@@ -1,0 +1,45 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+
+.ca {
+  max-width: 100%;
+}
+
+.cal {
+  background-color: rgb(22, 17, 26);
+  color: white;
+  padding: 15px;
+  width: 50%;
+  margin: 20px auto;
+}
+
+h3 {
+  margin-top: 1rem;
+}
+
+.cal input {
+  width: 100%;
+  padding: 5px;
+  background: rgb(48, 47, 49);
+  color: white;
+}
+
+.two {
+  display: flex;
+  margin-top: 10px;
+  justify-content: space-between;
+}
+
+.inc {
+  display: flex;
+}
+
+button {
+  padding: 5px;
+}
+
+.pp {
+  margin: 5px;
+}
